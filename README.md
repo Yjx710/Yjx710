@@ -12,7 +12,10 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
     <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-  </picture> --》
+  </picture> -->
+
+  ![](https://raw.githubusercontent.com/Yjx710/Yjx710/main/assets/github-contribution-grid-snake.svg)
+  
 
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
